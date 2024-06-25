@@ -11,7 +11,7 @@ object evaluation{
         val f = 12.0f
         val g = 4.0f
         
-        val c = "X"
+        val c = 'X'
 
         val result1 =  k + 12 * m
         println("k + 12 * m = " +result1)
